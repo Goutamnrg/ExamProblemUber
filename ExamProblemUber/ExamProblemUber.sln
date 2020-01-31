@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamProblemUber", "ExamProblemUber\ExamProblemUber.csproj", "{037DE3AB-1011-495B-B887-CC90EDF30EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037DE3AB-1011-495B-B887-CC90EDF30EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037DE3AB-1011-495B-B887-CC90EDF30EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037DE3AB-1011-495B-B887-CC90EDF30EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037DE3AB-1011-495B-B887-CC90EDF30EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49D5372-1478-482E-806D-675772C041DA}
+	EndGlobalSection
+EndGlobal
